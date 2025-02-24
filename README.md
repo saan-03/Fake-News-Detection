@@ -1,5 +1,7 @@
-Fake News Detection Using Machine Learning
-Project Overview
+**Fake News Detection Using Machine Learning**
+
+**Project Overview
+**
 This project implements a machine learning model to classify news articles as real or fake. Using a dataset of labeled news articles, the model applies natural language processing (NLP) techniques and a Passive Aggressive Classifier to efficiently detect misinformation. The tool enhances the reliability of news sources by automating the identification of fake news.
 
 Key Features
